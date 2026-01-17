@@ -36,7 +36,8 @@ Native Android Music Player which streams from Hi-Fi
 
   ## Credits
   ### Open Source Projects
-  [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+  This project is a modified version of Audiofy which is able to stream music from APIs with custom music management and bloat removed.
+  -[Audiofy](https://github.com/iZakirSheikh/Audiofy)
   
-  [HiFi](https://github.com/sachinsenal0x64/hifi)
+  -[HiFi](https://github.com/sachinsenal0x64/hifi)
 
