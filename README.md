@@ -1,4 +1,4 @@
-# spectra-music-player
+# Spectra Music Player
 Native Android Music Player which streams from Hi-Fi
 
   ## Features
@@ -13,6 +13,13 @@ Native Android Music Player which streams from Hi-Fi
   - **Beautiful UI** - Material Design 3 with smooth animations and dark/light themes
   - **Background Play** - Control playback from notification and lock screen
 
+
+  ## Images
+  <img width="1438" height="3046" alt="image" src="https://github.com/user-attachments/assets/e0f51e0e-0da1-40f3-973a-ab92c4a09ee6" />
+  <img width="1440" height="3064" alt="image" src="https://github.com/user-attachments/assets/2da9d1fd-2ba1-48c0-bd33-7b8a389ca696" />
+  <img width="1440" height="3041" alt="image" src="https://github.com/user-attachments/assets/c5bfa635-b58a-471e-bfeb-cbb72fbeb7ba" />
+  <img width="1440" height="3046" alt="image" src="https://github.com/user-attachments/assets/60f0382b-1340-486c-9f9a-7fb37a43ee40" />
+  
 
   ## Key Features Explained
 
@@ -30,5 +37,6 @@ Native Android Music Player which streams from Hi-Fi
   ## Credits
   ### Open Source Projects
   [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+  
   [HiFi](https://github.com/sachinsenal0x64/hifi)
 
