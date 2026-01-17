@@ -18,7 +18,6 @@ Native Android Music Player which streams from Hi-Fi
   <img width="25%" height="3046" src="https://github.com/user-attachments/assets/e0f51e0e-0da1-40f3-973a-ab92c4a09ee6" />
   <img width="25%" height="3064" src="https://github.com/user-attachments/assets/2da9d1fd-2ba1-48c0-bd33-7b8a389ca696" />
   <img width="25%" height="3041" src="https://github.com/user-attachments/assets/c5bfa635-b58a-471e-bfeb-cbb72fbeb7ba" />
-  <img width="25%" height="3046" src="https://github.com/user-attachments/assets/60f0382b-1340-486c-9f9a-7fb37a43ee40" />
   
 
   ## Key Features Explained
