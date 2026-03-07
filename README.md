@@ -56,7 +56,7 @@ Deep links registered in the manifest for use with automation apps.
 
 
   ## Download Latest Release
-  [Download APK](https://github.com/rvrsfx/spectra-music-player/releases/tag/latest)
+  [Download APK](https://github.com/rvrsfx/spectra-music-player/releases/latest)
   
   ## Join our Discord
   [Discord](https://discord.gg/xRtKHvxFxv)
