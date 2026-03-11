@@ -9,6 +9,7 @@ Native Android Music Player which streams from Hi-Fi
   - **Smart Library** - Browse by tracks, albums, artists
   - **Playlist Management** - Create custom playlists, manage favorites, and track your history
   - **Spotify and Youtube Music Import** - Import your Spotify/YT Music playlists with automatic track matching to FLACS.
+  - **Monochrome Import** - Import all your monochrome playlists and albums at once using your username.
   - **Offline Playback** — Save tracks, albums, or playlists for offline listening
   - **Local Files** — Import and mix local device files into playlists and queues
   - **LastFM Integration** — Scrobbling, Now Playing updates, and personalized recommendations
@@ -64,5 +65,6 @@ Deep links registered in the manifest for use with automation apps.
   ## Credits
   ### Open Source Projects
   -Contains UI elements from [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+  
   -[HiFi](https://github.com/sachinsenal0x64/hifi)
 
