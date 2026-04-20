@@ -9,7 +9,6 @@ Native Android Music Player which streams from Hi-Fi
   - **Smart Library** - Browse by tracks, albums, artists
   - **Playlist Management** - Create custom playlists, manage favorites, and track your history
   - **Spotify and Youtube Music Import** - Import your Spotify/YT Music playlists with automatic track matching to FLACS.
-  - **Monochrome Import** - Import all your monochrome playlists and albums at once using your username.
   - **Offline Playback** — Save tracks, albums, or playlists for offline listening
   - **Local Files** — Import and mix local device files into playlists and queues
   - **LastFM Integration** — Scrobbling, Now Playing updates, and personalized recommendations
@@ -23,7 +22,6 @@ Native Android Music Player which streams from Hi-Fi
   ## Images
   <img width="25%" height="3046" src="https://github.com/user-attachments/assets/e0f51e0e-0da1-40f3-973a-ab92c4a09ee6" />
   <img width="25%" height="3064" src="https://github.com/user-attachments/assets/2da9d1fd-2ba1-48c0-bd33-7b8a389ca696" />
-  <img width="25%" height="3041" src="https://github.com/user-attachments/assets/c5bfa635-b58a-471e-bfeb-cbb72fbeb7ba" />
   <img width="25%" height="3041" src="https://github.com/user-attachments/assets/2556519c-1fee-4b9c-be12-d2f94ca5500c" />
   <img width="25%" height="3041" src="https://github.com/user-attachments/assets/dbd26045-77f0-4945-8a74-02c177cce2d1" />
 
@@ -33,6 +31,8 @@ Native Android Music Player which streams from Hi-Fi
 
   ### Spotify/Youtube Playlist Import
   Import your Spotify/Youtube playlists and automatically convert them into High Quality FLACS. Imports happen in the background so you can keep using the app.
+  
+  *Spotify import temporarily degraded.*
 
   ### Streaming Integration
   Direct support for HiFi API with automatic URL resolution and caching for fast playback.
